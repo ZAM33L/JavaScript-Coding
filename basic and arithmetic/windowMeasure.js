@@ -1,2 +1,4 @@
 let iW = window.innerWidth;
-console.log(iW)
+console.log(iW);
+let iH = window.innerHeight;
+console.log(iH);
