@@ -8,5 +8,5 @@ const checkPrime = (num) =>{
     }
     return true
 }
-
+    
 console.log(checkPrime(7))
