@@ -19,4 +19,4 @@ var removeElement = function(nums, k) {
 
 nums = [1,1,2]
 k = 1
-console.log(removeElements(nums,k))
+console.log(removeElement(nums,k))
