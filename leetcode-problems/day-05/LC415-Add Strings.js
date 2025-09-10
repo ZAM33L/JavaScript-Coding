@@ -1,5 +1,7 @@
 //let sum = Number(num1)+Number(num2)
 // return sum.toString()
+//same logic as LC989-  Add to Array-Form of integers
+
 var addStrings = function(num1, num2) {
     // let sum = Number(num1)+Number(num2)
     // return sum.toString()
